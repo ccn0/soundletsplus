@@ -17,6 +17,7 @@ The `Copy Link to Board` button converts your soundboard to JSON and places it a
 When using this link, the page automatically loads the JSON from the URL.
 Using a link also auto hides the editbar.
 `Download` will download the JSON file and `Load Board` will prompt you for a JSON file and will load the board inside.
+Using URL paremeters, you can add a `?url=` to load a soundboard hosted by another website.
 
 ## Making a JSON file
 
